@@ -38,4 +38,10 @@ The contents present in the notebook:
   33. List Comprehensions
   34. def Keyword
   35. *args & **kwargs
-  36.  
+  36. map Function
+  37. filter Function
+  38. lambda Function
+  39. LEGB Rule
+  40. del Function
+  41. Python Decorators
+  42. Python Generators
