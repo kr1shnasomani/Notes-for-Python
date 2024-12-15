@@ -5,12 +5,12 @@ Welcome to my Python Notes repository! This repository contains comprehensive no
 The contents present in the notebook:
   | S. No. | Topic | Description |
   |----------|----------|----------|
-  | 1. | Basic Arthimatic Operators | Operators like +, -, *, / for basic calculations. |
+  | 1. | Basic Arthimatic Operators | Operators like `+, -, *, /` for basic calculations. |
   | 2. | `sum` Function | Calculates the sum of a list or iterable. |
   | 3. | `abs` Function | Returns the absolute value of a number. |
   | 4. | `hex` Function | Converts an integer to a hexadecimal string. |
   | 5. | `bin` Function | Converts an integer to a binary string. |
-  | 6. | `pow` Function | Returns the power of a number (x^y). |
+  | 6. | `pow` Function | Returns the power of a number `(x^y)`. |
   | 7. | `round` Function | Rounds a number to the nearest integer or decimal place. |
   | 8. | Variable Redefining | Changing or updating a variable's value. |
   | 9. | Determining Variable Type | Checks the data type of a variable using `type()`. |
@@ -28,7 +28,7 @@ The contents present in the notebook:
   | 21. | Spacing | Managing white spaces in Python code. |
   | 22. | iPython Writing a File | Writing content to a file using iPython commands. |
   | 23. | Reading, Writing and Appending | Operations to handle files for reading and writing. |
-  | 24. | Comparison Operators | Operators to compare values, like ==, >, <, etc. |
+  | 24. | Comparison Operators | Operators to compare values, like `==, >, <`, etc. |
   | 25. | `if`, `elif`, `else` Statements | Conditional statements for decision-making. |
   | 26. | `for` Loops | Loops that iterate over a sequence. |
   | 27. | `while` Loops | Loops that run until a condition is met. |
